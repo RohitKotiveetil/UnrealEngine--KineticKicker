@@ -1,7 +1,7 @@
 # UnrealEngine--KineticKicker
-Recreation of the Kinetic Kicker from Project: Snowblind.
+Recreation of the Kinetic Kicker from Project: Snowblind using blueprints in Unreal Engine.
 
-Created using blueprints in Unreal Engine 4.24.
+Optimized for Unreal Engine 5.3.
 
 **Showcase Video:** https://www.youtube.com/watch?v=uUEix_BETjA
 
